@@ -1,0 +1,17 @@
+//初始化
+git init（ial）
+//配置用户名
+git config（uration）--global chaochaozhang
+//配置邮箱
+git config（uration）--global 2763992498@qq.com
+//复制仓库
+git clone 网址
+
+//相应操作过后
+
+//存入缓冲区
+git add 文件名
+//提交
+git commit -m “说明”
+//推送
+git push
